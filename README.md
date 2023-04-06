@@ -1,4 +1,4 @@
-# 👋 Hi, I’m reimon!
+# 👋 Hola, soy reimon!
 
 ## Links Franja Morada
 [![FM](icons/fm.png)](https://franjainfounlp.ar/ "Web - Franja Morada Informática UNLP") [![Twitter](icons/twitter.png)](https://twitter.com/franjainfounlp "Twitter - Franja Morada Informática UNLP") [![Instagram](icons/instagram.png)](https://www.instagram.com/fminformaticaunlp/ "Instagram - Franja Morada Informática UNLP") [![Discord](icons/discord.png)](https://discord.gg/m2unB92Gme "Discord - FM::UNLP::INFO")
